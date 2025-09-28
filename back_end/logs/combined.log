@@ -1,0 +1,396 @@
+{"level":"error","message":"数据库连接失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 20:25:55"}
+{"level":"error","message":"数据库连接失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 20:25:57"}
+{"level":"error","message":"数据库连接失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 20:31:25"}
+{"level":"error","message":"数据库连接失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 20:31:38"}
+{"level":"error","message":"数据库连接失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 20:56:00"}
+{"level":"error","message":"数据库连接失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 20:59:33"}
+{"level":"error","message":"数据库连接失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:13:49"}
+{"level":"error","message":"数据库连接失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:16:29"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 21:18:35"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 21:18:35"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 21:18:36"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 21:18:36"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:18:57"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 21:20:58"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 21:20:58"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 21:20:58"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 21:20:58"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:21:44"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:24:12"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:24:40"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:03"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:03"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:06"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:06"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:08"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:08"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:09"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:09"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:09"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:09"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:09"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:09"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:10"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:10"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:10"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:10"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:10"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:10"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:10"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:10"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:46"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:46"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:48"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:48"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:57"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:27:57"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:28:04"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:28:04"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:28:26"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:28:26"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 21:34:06"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 21:34:06"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 21:34:14"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 21:34:14"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 21:34:15"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 21:34:15"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:34:30"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:34:34"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:30"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:30"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:32"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:32"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:33"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:33"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:33"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:33"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:33"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:33"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:34"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:34"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:52"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 21:35:52"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:32"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:32"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:39"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:39"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:39"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:39"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:48"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:48"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:48"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:48"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:55"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:59"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 22:58:59"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 22:59:01"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 22:59:01"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 22:59:15"}
+{"level":"error","message":"客人登记失败:","service":"smart-hotel-backend","timestamp":"2025-06-22 22:59:15"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:03"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:03"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:06"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:06"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:06"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:06"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:13"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:13"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:13"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:13"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:18"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:21"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:01:27"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:07:30"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:07:30"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:07:40"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:07:40"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 23:07:40"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 23:07:40"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:09:39"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:09:43"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:09:43"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 23:09:43"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 23:09:43"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:09:56"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:10:00"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:10:05"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:11:06"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:11:16"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:12:40"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:12:42"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=20 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:13:33"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:13:36"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:13:56"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:19:47"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:19:47"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:19:53"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:19:53"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 23:19:53"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 23:19:53"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:20:00"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:20:01"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 23:20:01"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 23:20:01"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:20:15"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:20:22"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:24:36"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:24:37"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:24:50"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:24:50"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 23:24:50"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 23:24:50"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:24:58"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:25:02"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:25:08"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:25:16"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:25:16"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:25:40"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:26:06"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:26:38"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:26:40"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:29:09"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:29:20"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:29:22"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:29:24"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:29:25"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:29:26"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:29:30"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:29:32"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:29:33"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:30:17"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:31:59"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:00"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:01"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:01"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:01"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:02"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:02"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:03"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:09"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:10"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:11"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:27"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:28"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:28"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:28"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:32:29"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-22 23:36:23"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-22 23:36:23"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-22 23:36:24"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-22 23:36:24"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:36:29"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:36:30"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:36:31"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:36:34"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:36:40"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:36:56"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:37:01"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:37:01"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:37:02"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:37:02"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:37:02"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:37:02"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:37:03"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:37:03"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-22 23:37:03"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 09:40:18"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 09:40:18"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 09:40:19"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 09:40:19"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 09:40:37"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 09:40:55"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 09:41:13"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 09:41:29"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 09:43:19"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:33:31"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:35:23"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 10:41:52"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 10:41:52"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 10:41:53"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 10:41:53"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:42:26"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:42:34"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:42:46"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:46:11"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:46:30"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:46:39"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:46:45"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:46:53"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:49:21"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:49:33"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:49:46"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:52:45"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 10:53:52"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 10:53:53"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 10:53:53"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 10:53:53"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:54:06"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:54:20"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:54:52"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:55:14"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:56:01"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:56:08"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:56:25"}
+{"level":"error","message":"退房失败:","service":"smart-hotel-backend","timestamp":"2025-06-23 10:56:25"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:56:29"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:01"}
+{"level":"error","message":"退房失败:","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:01"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:02"}
+{"level":"error","message":"退房失败:","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:02"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:03"}
+{"level":"error","message":"退房失败:","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:03"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:03"}
+{"level":"error","message":"退房失败:","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:03"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:03"}
+{"level":"error","message":"退房失败:","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:03"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:04"}
+{"level":"error","message":"退房失败:","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:04"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:04"}
+{"level":"error","message":"退房失败:","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:04"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:04"}
+{"level":"error","message":"退房失败:","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:04"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:08"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:26"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 10:57:29"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 11:03:36"}
+{"level":"error","message":"退房失败:","service":"smart-hotel-backend","timestamp":"2025-06-23 11:03:36"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 11:03:41"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 11:04:20"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 11:05:03"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 11:05:30"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:14"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:14"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:16"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:16"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:16"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:16"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:31"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:31"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:31"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:31"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 11:43:43"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 11:44:09"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 11:44:13"}
+{"level":"info","message":"POST /api/bookings/checkout - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 11:44:21"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 11:44:28"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:10:02"}
+{"level":"info","message":"客户端连接: lTvQYRnkXKCIWqf_AAAB","service":"smart-hotel-backend","timestamp":"2025-06-23 15:10:02"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:04"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:04"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:09"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:09"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:09"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:09"}
+{"level":"info","message":"客户端连接: HtItAIC60nmCPKIDAAAB","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:13"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:55"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:55"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:55"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:55"}
+{"level":"info","message":"客户端连接: xtAOmv2mjyCv5F0mAAAB","service":"smart-hotel-backend","timestamp":"2025-06-23 15:12:58"}
+{"level":"info","message":"客户端断开连接: xtAOmv2mjyCv5F0mAAAB","service":"smart-hotel-backend","timestamp":"2025-06-23 15:13:01"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:13:04"}
+{"level":"info","message":"客户端连接: zjkbO0ZRKvaYNfnwAAAD","service":"smart-hotel-backend","timestamp":"2025-06-23 15:13:04"}
+{"level":"info","message":"客户端断开连接: zjkbO0ZRKvaYNfnwAAAD","service":"smart-hotel-backend","timestamp":"2025-06-23 15:13:15"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:13:16"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:13:19"}
+{"level":"info","message":"客户端连接: PUVFF2iiuih5Xct3AAAF","service":"smart-hotel-backend","timestamp":"2025-06-23 15:13:19"}
+{"level":"info","message":"客户端断开连接: PUVFF2iiuih5Xct3AAAF","service":"smart-hotel-backend","timestamp":"2025-06-23 15:13:21"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:13:21"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:14:35"}
+{"level":"info","message":"客户端连接: uO1NIE66gnuPG7lRAAAH","service":"smart-hotel-backend","timestamp":"2025-06-23 15:14:36"}
+{"level":"info","message":"客户端断开连接: uO1NIE66gnuPG7lRAAAH","service":"smart-hotel-backend","timestamp":"2025-06-23 15:14:59"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:14:59"}
+{"level":"info","message":"POST /api/guests/register - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:15:39"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:15:42"}
+{"level":"info","message":"客户端连接: zn7RUSyVMIrA7t-pAAAJ","service":"smart-hotel-backend","timestamp":"2025-06-23 15:15:42"}
+{"level":"info","message":"客户端断开连接: zn7RUSyVMIrA7t-pAAAJ","service":"smart-hotel-backend","timestamp":"2025-06-23 15:15:49"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:15:49"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:15:52"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:15:53"}
+{"level":"info","message":"GET /api/bookings/guest/123456789123456789 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:16:10"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 15:37:36"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 15:57:36"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 15:57:36"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 15:57:37"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 15:57:37"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 15:58:32"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 15:58:32"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 15:58:37"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 15:58:37"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 15:58:37"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 15:58:37"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 16:00:33"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 16:00:33"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 16:00:34"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 16:00:34"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:01:22"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:02:33"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:02:45"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:03:02"}
+{"level":"info","message":"客户端连接: r9rziib1b_M9gi9NAAAB","service":"smart-hotel-backend","timestamp":"2025-06-23 16:03:02"}
+{"level":"info","message":"客户端断开连接: r9rziib1b_M9gi9NAAAB","service":"smart-hotel-backend","timestamp":"2025-06-23 16:03:59"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:04"}
+{"level":"info","message":"客户端连接: HDPAUzFox8ZLB3GkAAAE","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:05"}
+{"level":"info","message":"客户端断开连接: HDPAUzFox8ZLB3GkAAAE","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:07"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:07"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:09"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:14"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:16"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:18"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:20"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:37"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:37"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:37"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:37"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:39"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:41"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:42"}
+{"level":"info","message":"GET /health - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:05:43"}
+{"level":"info","message":"GET /api/statistics/occupancy-rate?start=2024-06-01&end=2024-06-30&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:07:59"}
+{"level":"info","message":"GET /api/statistics/revenue?start=2024-06-01&end=2024-06-30&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:08:27"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 16:12:41"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 16:12:41"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 16:12:42"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 16:12:42"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:07"}
+{"level":"info","message":"GET /api/statistics/occupancy-rate?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:12"}
+{"level":"info","message":"GET /api/statistics/revenue?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:12"}
+{"level":"info","message":"GET /api/statistics/room-type-distribution - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:12"}
+{"level":"info","message":"GET /api/statistics/guest-origin - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:12"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:16"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:18"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:21"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:22"}
+{"level":"info","message":"GET /api/bookings?page=1&limit=10 - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:25"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:26"}
+{"level":"info","message":"客户端连接: M4EaoiJv27T6CadeAAAB","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:27"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:27"}
+{"level":"info","message":"客户端断开连接: M4EaoiJv27T6CadeAAAB","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:27"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:28"}
+{"level":"info","message":"GET /api/statistics/occupancy-rate?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:41"}
+{"level":"info","message":"GET /api/statistics/revenue?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:41"}
+{"level":"info","message":"GET /api/statistics/room-type-distribution - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:41"}
+{"level":"info","message":"GET /api/statistics/guest-origin - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:13:41"}
+{"level":"info","message":"GET /api/statistics/occupancy-rate?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:17:22"}
+{"level":"info","message":"GET /api/statistics/revenue?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:17:23"}
+{"level":"info","message":"GET /api/statistics/room-type-distribution - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:17:23"}
+{"level":"info","message":"GET /api/statistics/guest-origin - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 16:17:23"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:06:58"}
+{"level":"info","message":"GET /api/statistics/occupancy-rate?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:06:58"}
+{"level":"info","message":"GET /api/statistics/revenue?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:06:58"}
+{"level":"info","message":"GET /api/statistics/room-type-distribution - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:06:58"}
+{"level":"info","message":"GET /api/statistics/guest-origin - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:06:58"}
+{"level":"info","message":"数据库连接成功","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:10"}
+{"level":"info","message":"数据库表初始化完成","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:10"}
+{"level":"info","message":"智能酒店管理系统后端启动成功，端口: 5000","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:10"}
+{"level":"info","message":"健康检查地址: http://localhost:5000/health","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:10"}
+{"level":"info","message":"GET /api/statistics/occupancy-rate?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:12"}
+{"level":"info","message":"GET /api/statistics/revenue?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:12"}
+{"level":"info","message":"GET /api/statistics/room-type-distribution - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:12"}
+{"level":"info","message":"GET /api/statistics/guest-origin - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:12"}
+{"level":"info","message":"GET /api/rooms - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:15"}
+{"level":"info","message":"GET /api/rooms/available - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:20"}
+{"level":"info","message":"GET /api/statistics/occupancy-rate?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:23"}
+{"level":"info","message":"GET /api/statistics/revenue?start=2025-05-31&end=2025-06-23&type=day - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:23"}
+{"level":"info","message":"GET /api/statistics/room-type-distribution - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:23"}
+{"level":"info","message":"GET /api/statistics/guest-origin - ::ffff:127.0.0.1","service":"smart-hotel-backend","timestamp":"2025-06-23 17:07:23"}
